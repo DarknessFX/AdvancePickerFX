@@ -1,2 +1,2 @@
-# AdvancePickerFX
+# AdvancedPickerFX
 WIP
