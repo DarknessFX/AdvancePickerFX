@@ -12,7 +12,7 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
-# AdvancedPickerFX for Unreal Engine 5.4.4 Character Animation
+# AdvancedPickerFX for Unreal Engine 5.4 Character Animation
 
 <img src="./.gitimages/AdvancedPickerFX_banner.png" width="640px" /> <br/>
 
